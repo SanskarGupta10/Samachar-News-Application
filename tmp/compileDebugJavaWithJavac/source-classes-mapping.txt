@@ -1,0 +1,28 @@
+com/example/hello1/CategoryRVModal.java
+ com.example.hello1.CategoryRVModal
+com/example/hello1/NewsDetailActivity.java
+ com.example.hello1.NewsDetailActivity
+ com.example.hello1.NewsDetailActivity$1
+com/example/hello1/NewsModal.java
+ com.example.hello1.NewsModal
+com/example/hello1/NewsRVAdapter.java
+ com.example.hello1.NewsRVAdapter
+ com.example.hello1.NewsRVAdapter$1
+ com.example.hello1.NewsRVAdapter$ViewHolder
+com/example/hello1/RetrofitAPI.java
+ com.example.hello1.RetrofitAPI
+com/example/hello1/MainActivity2.java
+ com.example.hello1.MainActivity2
+ com.example.hello1.MainActivity2$1
+com/example/hello1/Articles.java
+ com.example.hello1.Articles
+com/example/hello1/BuildConfig.java
+ com.example.hello1.BuildConfig
+com/example/hello1/MainActivity.java
+ com.example.hello1.MainActivity
+ com.example.hello1.MainActivity$1
+com/example/hello1/CategoryRVAdapter.java
+ com.example.hello1.CategoryRVAdapter
+ com.example.hello1.CategoryRVAdapter$1
+ com.example.hello1.CategoryRVAdapter$CategoryClickInterface
+ com.example.hello1.CategoryRVAdapter$ViewHolder
