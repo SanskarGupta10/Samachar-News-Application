@@ -1,0 +1,3 @@
+Samachar news application
+username = user
+password = 123456
